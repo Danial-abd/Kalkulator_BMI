@@ -23,7 +23,7 @@ class _InputPageState extends State<InputPage> {
               children: [
                 Expanded(
                   child: ReusableCard(
-                      colour: Colors.blueAccent, tinggi: 200.0, lebar: 200.0),
+                      colour: Colors.lightGreen, tinggi: 200.0, lebar: 200.0),
                 ),
                 Expanded(
                     child: ReusableCard(
@@ -38,7 +38,7 @@ class _InputPageState extends State<InputPage> {
             children: [
               Expanded(
                   child: ReusableCard(
-                      colour: Colors.blueAccent, tinggi: 100.0, lebar: 150.0)),
+                      colour: Colors.deepPurple, tinggi: 100.0, lebar: 150.0)),
             ],
           )),
           Expanded(
@@ -60,7 +60,7 @@ class _InputPageState extends State<InputPage> {
             children: [
               Expanded(
                 child: ReusableCard(
-                    colour: Colors.blueAccent, tinggi: 250.0, lebar: 200.0),
+                    colour: Colors.cyan, tinggi: 250.0, lebar: 200.0),
               ),
             ],
           ))
